@@ -8,8 +8,8 @@ var streamInfo = {
   cardContent: "For more news find us at: https://www.voanews.com",
   url: 'https://www.voanews.com/podcast/?count=20&zoneId=1451',
   image: {
-    largeImageUrl: 'https://s3.amazonaws.com/cdn.dabblelab.com/img/alexa-card-lg.png',
-    smallImageUrl: 'https://s3.amazonaws.com/cdn.dabblelab.com/img/alexa-card-sm.png'
+    largeImageUrl: 'https://s3.amazonaws.com/voalogos/voa_logo_512x512.png',
+    smallImageUrl: 'https://s3.amazonaws.com/voalogos/voa_logo_108x108.png'
   }
 };
 

@@ -1,5 +1,5 @@
 {
-  "skillManifest": {
+  "manifest": {
     "publishingInformation": {
       "locales": {
         "en-US": {
@@ -17,10 +17,10 @@
             "news",
             "streaming"
           ],
-          "name": "internationaledition",
+          "name": "VOA International Edition",
           "description": "VOA International Edition News Broadcast",
-          "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
-          "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
+          "smallIconUri": "https://s3.amazonaws.com/voalogos/voa_logo_108x108.png",
+          "largeIconUri": "https://s3.amazonaws.com/voalogos/voa_logo_512x512.png"
         }
       },
       "isAvailableWorldwide": true,
