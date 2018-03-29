@@ -8,7 +8,7 @@
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "ask-custom-audio-stream-starter-default"
+                "uri": "ask-custom-internationaledition-default"
               }
             }
           }

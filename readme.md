@@ -1,3 +1,2 @@
-# Audio Stream Starter - Skill Template
+# VOA International Edition Audio Streamer for Amazon Echo (Alexa)
 
-A starter template for an Alexa audio streaming skill.

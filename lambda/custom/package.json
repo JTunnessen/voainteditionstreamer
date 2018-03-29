@@ -1,20 +1,23 @@
 {
-  "name": "Audio Stream Starter Skill Template",
+  "name": "Voice of America International Edition Audio Streamer",
   "version": "1.0.0",
-  "description": "A starter template for an Alexa audio streaming skill.",
+  "description": "VOA International Edition News Broadcast",
   "main": "index.js",
   "keywords": [
-    "alexa",
-    "skill",
-    "audio streaming"
+    "voa",
+    "voice of america",
+    "international news",
+    "broadcast",
+    "news",
+    "streaming"
   ],
-  "author": "skilltemplates.com",
+  "author": "Jim Tunnessen (@techBytesIO)",
   "license": "See license in ../LICENSE.txt",
   "dependencies": {
     "alexa-sdk": "^1.0.25"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/skilltemplates/audio-stream-starter-alexa.git"
+    "url": ""
   }
 }

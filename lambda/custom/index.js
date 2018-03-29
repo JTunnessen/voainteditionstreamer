@@ -3,10 +3,10 @@
 var Alexa = require('alexa-sdk');
 
 var streamInfo = {
-  title: 'Audio Stream Starter',
-  subtitle: 'A starter template for an Alexa audio streaming skill.',
-  cardContent: "Get more details at: https://skilltemplates.com",
-  url: 'https://streaming.radionomy.com/RadioXUS?lang=en-US&appName=iTunes.m3u',
+  title: 'Voice of America International News Audio Streamer',
+  subtitle: 'VOA streaming international news',
+  cardContent: "For more news find us at: https://www.voanews.com",
+  url: 'https://www.voanews.com/podcast/?count=20&zoneId=1451',
   image: {
     largeImageUrl: 'https://s3.amazonaws.com/cdn.dabblelab.com/img/alexa-card-lg.png',
     smallImageUrl: 'https://s3.amazonaws.com/cdn.dabblelab.com/img/alexa-card-sm.png'
